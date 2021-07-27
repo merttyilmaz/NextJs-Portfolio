@@ -4,6 +4,7 @@ import {
   SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
+import { Img } from "../Projects/ProjectsStyles";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 
@@ -18,6 +19,7 @@ const Hero = () => (
         development and like to learn new technologies, play games and listen to
         music in my free time.
       </SectionText>
+      <Img src="/images/5.jpg" /> <br />
       <Button
         onClick={() =>
           (window.location =
