@@ -39,9 +39,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2015, text: "Started Bilkent University" },
+  { year: 2018, text: "Interned at Roketsan A.Ş." },
+  { year: 2019, text: "Interned at Teknopar Endüstriyel Otomasyon" },
+  { year: 2020, text: "Graduated from Bilkent University" },
+  { year: 2021, text: "Started Working at Softtech A.Ş." },
 ];
