@@ -59,7 +59,8 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About me</SectionTitle>
+      <SectionDivider />
+      <SectionTitle style={{ marginTop: "60px" }}>About me</SectionTitle>
       <SectionText>
         I graduated from Bilkent University in 2020. I decided that I wanted be
         a Web Developer, so I started learning the most popular technologies and
